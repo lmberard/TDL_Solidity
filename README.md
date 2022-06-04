@@ -6,17 +6,20 @@
 - Veron, Lucas
 
 ## Proyecto
----- idea del proyecto ----
+Armar una Loteria donde los difentes participantes puedan jugar y apostar su dinero(de mentiritas) y dejar a sus oponentes sin un $$$ en la billetera.
 
----- tecnologias utilizadas -----
+### Tecnologias utilizadas
+* Solidity 0.8.13
+* Remix
 
-### -> Implementacion token propio
+### Aleatoridad en Solidity 
+Para generar numeros seudoaleatorios se uso la función <b>keccak256</b> que a partir de una entrada de datos se puede obtener un hash.
 
-### -> Aleatoridad en Solidity 
+### Implementacion token propio
 
-### -> Wallets
+### Wallets
 
-### -> Front end 
+### Front end 
 
 
 ## Compilacion y Deployment
