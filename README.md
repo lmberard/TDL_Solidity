@@ -10,7 +10,7 @@ Armar una Loteria donde los difentes participantes puedan jugar y apostar su din
 
 ### Tecnologias utilizadas
 * Solidity 0.8.13
-* Remix
+* [Remix](remix.ethereum.org)
 
 ### Aleatoridad en Solidity 
 Para generar numeros seudoaleatorios se uso la función <b>keccak256</b> que a partir de una entrada de datos se puede obtener un hash.
@@ -23,3 +23,4 @@ Para generar numeros seudoaleatorios se uso la función <b>keccak256</b> que a p
 
 
 ## Compilacion y Deployment
+Para compilar y ejecutar la aplicacion, seguir los pasos en el siguiente [documento](https://github.com/lmberard/TDL_Solidity/blob/main/help_deployment/HOWTO.md)
