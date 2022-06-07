@@ -56,8 +56,8 @@ contract Lottery {
     }
 
     function checkWinnder() private view returns (bool) {
-        for (uint256 i; i < participantes.length; i++) {
-            if (participantes[i].amountHits == NUMBERS_PER_CARD) {
+        for (uint256 i; i < participants.length; i++) {
+            if (participants[i].amountHits == NUMBERS_PER_CARD) {
                 return true;
             }
         }
