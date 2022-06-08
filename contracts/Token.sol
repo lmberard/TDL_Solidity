@@ -3,7 +3,7 @@
 pragma solidity ^0.4.17;
 
 // Token basico
-contract MyCoin {
+contract LPLToken {
     string public name;
     string public symbol;
     uint8 public decimals;
