@@ -81,3 +81,17 @@ contract MyCoin {
         return true;
     }
 }
+
+/*
+- Que onda la funcion de decimales? 
+    `function** decimals() **public** view returns (uint8)`
+    Nos retorna la cantidad de decimales que va a tener nuestro token. 
+    En un smart contract en solidity no se pueden manejar tipos de variables 
+    flotantes por lo que se separa entre valor entero y el valor de decimales. 
+    Esta funcion esta "acompañada" con la de totalSupply()
+
+- balanceOf() es un mapping que me va a mapear los valores de 
+tokens segun la address ingresada. (direcciones con sus saldos)
+
+- Las funciones setters son transfer y transferFrom
+ */
