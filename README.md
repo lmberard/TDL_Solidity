@@ -13,7 +13,7 @@ Armar una Loteria donde los difentes participantes puedan jugar y apostar su din
 ### Tecnologias utilizadas
 
 - Solidity 0.8.13
-- [Remix](remix.ethereum.org)
+- [Remix](https://remix.ethereum.org/)
 
 ## Compilacion y Deployment
 
