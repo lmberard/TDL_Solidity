@@ -2,7 +2,7 @@
 
 La idea es clonear el repositorio en el Remix IDE para poder tener acceso a varios usuarios de prueba sin tener que utilizar dinero real y poder correr el programa directamente desde ahi. 
 
-1. Abrir [REMIX IDE](remix.ethereum.org)
+1. Abrir [REMIX IDE](https://remix.ethereum.org/)
 2. Instalar DGIT Plugin:
 
 ![image](https://user-images.githubusercontent.com/50753891/172474134-0d47c0bf-d6d1-43d1-8e10-60cf950cd9b1.png)
